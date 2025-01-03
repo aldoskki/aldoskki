@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ciao 👋
+
+My name is Aldo and I'm a System Engineer trying to become a **Cloud/DevOps Engineer**.
+
+Here you can find my personal projects and **homelab** stuff.
+
 
 <!--
 **aldoskki/aldoskki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
