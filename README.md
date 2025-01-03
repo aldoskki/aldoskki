@@ -2,7 +2,7 @@
 
 My name is Aldo and I'm a System Engineer trying to become a **Cloud/DevOps Engineer**.
 
-Here you can find my personal projects and **homelab** stuff.
+Here you can find my personal **projects** and **homelab** stuff.
 
 
 <!--
