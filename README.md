@@ -6,7 +6,7 @@ Here you can find my **personal projects** and **homelab** stuff.
 
 - 🌱 I’m currently doing Learn To Cloud challenge
 - 📫 How to reach me: 
-    - [LinkedIn](www.linkedin.com/in/aldomanconi)
+    - [LinkedIn](https://www.linkedin.com/in/aldomanconi/)
     - [X](https://x.com/aldoskki)
 
 <!--
